@@ -18,6 +18,14 @@ body {
   min-height: 100vh;
 }
 
+/* Basic styles */
+body, html {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
 .header {
   background-color: blue;
   color: white;
